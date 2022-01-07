@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgb(159, 164, 168);
+  border: 5px solid rgb(99, 221, 152);
+  border-radius: 5%;
+}
+
+img {
+  height:auto; 
+  float: right;
+  clear: right;
+}
+
+.projects {
+  /*background-color: dodgerblue;*/
+}
