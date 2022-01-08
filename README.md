@@ -1,4 +1,4 @@
-# Justin's Interior Design Website
+# Justin's Web Development Portfolio
 
 #### By _**Justin Dechow**_
 
@@ -16,8 +16,8 @@ _A portfolio that will contain all the projects that Justin Dechow has worked on
 
 ## Setup/Installation Requirements
 
-* _To view this page, please navigate to <https://jdechow5.github.io/interior-design/>_
-* _Alternatively, you may clone the repository at <https://jdechow5.github.io/interior-design/>_
+* _To view this page, please navigate to <https://jdechow5.github.io/portfolio>_
+* _Alternatively, you may clone the repository at <https://jdechow5.github.io/portfolio/>_
 
 
 ## Known Bugs
